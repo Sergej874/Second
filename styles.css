@@ -59,8 +59,8 @@ a:visited {
 .info p {
   color: #86898f;
   margin: 0;
-  font-style: italic;
-  font-weight: bold;
+  /* font-style: italic; */
+  /* font-weight: bold; */
   text-decoration: none;
   /* text-transform: capitalize; */
   /* letter-spacing: 4px; */
